@@ -48,10 +48,10 @@ export default function App() {
         <h1 className="text-4xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-red-500 via-pink-500 via-blue-500 to-purple-500 leading-tight">
           BudgetBeacon Demo
         </h1>
-        <p className="text-lg text-gray-300 mt-4 max-w-2xl">
+        {/* <p className="text-lg text-gray-300 mt-4 max-w-2xl">
           Experience the cutting-edge AI technology deployed on-site. Watch
           the demo to see how it transforms real-world scenarios.
-        </p>
+        </p> */}
       </div>
 
       {/* Video Section */}
