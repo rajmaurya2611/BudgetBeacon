@@ -57,7 +57,7 @@ export default function App() {
       {/* Video Section */}
       <div className="relative z-10 w-full max-w-3xl aspect-video rounded-lg overflow-hidden shadow-lg border border-gray-700">
         <video className="w-full h-full" controls autoPlay loop>
-          <source src="/video.mp4" type="video/mp4" />
+          <source src="/Finance_Bot_Demo.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
       </div>
